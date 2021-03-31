@@ -1,0 +1,9 @@
+[16-Mar-2021 23:41:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula3\Main.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula3\Main.php on line 12
+[16-Mar-2021 23:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresa' not found in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula3\Main.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula3\Main.php on line 12
+[16-Mar-2021 23:42:50 UTC] PHP Parse error:  syntax error, unexpected '$b747' (T_VARIABLE) in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula3\Main.php on line 7
