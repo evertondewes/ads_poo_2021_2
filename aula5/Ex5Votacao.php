@@ -21,12 +21,24 @@ class Votar
 
     public function votoObrigatorio()
     {
-        if ($this->idade < 16) {
-            echo 'Não pode votar';
-        } else if ((16 <= $this->idade && $this->idade <= 17) || ($this->idade >= 70)) {
-            echo 'É facultativo';
+        if ($this->idade < 18) {
+            echo 'Não pode votar,';
+        } else if ((18 <= $this->idade && $this->idade <= 21) || ($this->idade >= 80)) {
+            echo 'É facultativo,';
         } else {
-            echo 'É obrigatório';
+            echo 'É obrigatório,';
         }
     }
 }
+
+$joao = new Votar();
+$joao->setIdade(17);
+$joao->votoObrigatorio();
+
+$pedro = new Votar();
+$pedro->setIdade(78);
+$pedro->votoObrigatorio();
+
+$mateus = new Votar();
+$mateus->setIdade(32);
+$mateus->votoObrigatorio();

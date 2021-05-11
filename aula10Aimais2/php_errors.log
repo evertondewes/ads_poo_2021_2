@@ -1,0 +1,15 @@
+[05-May-2021 00:44:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Animal::nascer(), 0 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Main.php on line 14 and exactly 1 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Animal.php:9
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Main.php(14): Animal->nascer()
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Animal.php on line 9
+[05-May-2021 00:46:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Animal::nascer(), 0 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Main.php on line 14 and at least 1 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Animal.php:10
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Main.php(14): Animal->nascer()
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Animal.php on line 10
+[05-May-2021 00:49:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Animal::nascer(), 2 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Main.php on line 14 and exactly 3 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Animal.php:10
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Main.php(14): Animal->nascer('Felix', 123)
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula10Aimais2\Animal.php on line 10

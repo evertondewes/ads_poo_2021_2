@@ -1,0 +1,8 @@
+[20-Apr-2021 22:48:49 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property aviao::$velocidade in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula7\Ex1Main.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula7\Ex1Main.php on line 8
+[20-Apr-2021 22:55:28 UTC] PHP Fatal error:  Uncaught Error: Call to protected method aviao::verficaVelocidadePossivel() from context '' in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula7\Ex1Main.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\aula7\Ex1Main.php on line 8

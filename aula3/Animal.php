@@ -1,7 +1,7 @@
 <?php
 
 
-class Animal
+class Animal2
 {
     public $especie;
     public $habitat;

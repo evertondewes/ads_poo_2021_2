@@ -7,7 +7,7 @@ class Vendas
 
     public function informaVenda($nome, $totalVenda)
     {
-        $this->vendasTotais[$nome] = $totalVenda;
+        vendasTotais[$nome] = ;
     }
 
     public function exibirComissao()
