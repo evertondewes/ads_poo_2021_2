@@ -1,0 +1,48 @@
+[26-May-2021 00:28:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Tecnico::__construct(), 0 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php on line 11 and exactly 1 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php:9
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php(11): Tecnico->__construct()
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 9
+[26-May-2021 00:29:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Tecnico::__construct(), 0 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php on line 11 and exactly 1 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php:9
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php(11): Tecnico->__construct()
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 9
+[26-May-2021 00:30:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Tecnico::__construct(), 0 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php on line 11 and exactly 1 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php:9
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php(11): Tecnico->__construct()
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 9
+[26-May-2021 00:35:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Funcionario::__construct(), 0 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php on line 13 and exactly 1 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Funcionario.php:9
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php(13): Funcionario->__construct()
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Funcionario.php on line 9
+[26-May-2021 00:39:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Funcionario::__construct(), 1 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php on line 13 and exactly 2 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Funcionario.php:9
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Main.php(13): Funcionario->__construct('Jos\xC3\xA9')
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Funcionario.php on line 9
+[01-Jun-2021 03:18:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Tecnico::__construct(), 0 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 49 and at least 1 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php:26
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php(49): Tecnico->__construct()
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 26
+[01-Jun-2021 03:18:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Tecnico::getBonusSalarial(), 0 passed in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 50 and exactly 1 expected in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php:32
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php(50): Tecnico->getBonusSalarial()
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 32
+[01-Jun-2021 03:19:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBonusSalarial() on array in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php:52
+Stack trace:
+#0 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 52
+[01-Jun-2021 03:19:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBonusSalarial() on array in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php:52
+Stack trace:
+#0 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 52
+[01-Jun-2021 03:19:47 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Tecnico::getBonusSalarial() must implement interface teste, array given, called in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 52 and defined in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php:32
+Stack trace:
+#0 C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php(52): Tecnico->getBonusSalarial(Array)
+#1 {main}
+  thrown in C:\projetos\PhpstormProjects\ads_poo_2021_2\Aula12Heranca\Tecnico.php on line 32
