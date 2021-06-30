@@ -7,6 +7,6 @@ class CirculoRedimensionavel extends Circulo implements Redimensionavel
 {
     public function redimensionar(float $percentual)
     {
-        $this->raio = $this->raio + $this->raio * ($percentual / 100);
+        $this->raio *= $percentual;
     }
 }
